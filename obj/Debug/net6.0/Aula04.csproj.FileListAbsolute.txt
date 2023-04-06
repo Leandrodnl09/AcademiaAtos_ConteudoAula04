@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\bin\Debug\net6.0\Aula04.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\bin\Debug\net6.0\Aula04.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\bin\Debug\net6.0\Aula04.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\bin\Debug\net6.0\Aula04.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\bin\Debug\net6.0\Aula04.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\refint\Aula04.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\Aula04.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula04\obj\Debug\net6.0\ref\Aula04.dll
